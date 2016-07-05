@@ -1,1 +1,4 @@
 # MVVMDemo
+
+使用MVVC设计模式来搭建工程，抽取业务逻辑层
+使用抽取TablevIewDataSoure来实现，轻量级的ViewController
